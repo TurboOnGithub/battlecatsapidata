@@ -3,7 +3,7 @@
   "_notice": "These are all scaled to 100%, the enemy average.",
   "enemies": [
     {
-      "id": 000,
+      "id": 0,
       "name": "Doge",
       "trait": ["Traitless"],
       "health": 90,
@@ -13,15 +13,14 @@
       "speed": 5,
       "knockback": 3,
       "time_between_attacks": 1.57,
-	  "animation": 0.27,
+      "animation": 0.27,
       "special_abilities": [],
-	  "damage_per_second": 6,
-	  "money": 15,
+      "damage_per_second": 6,
+      "money": 15,
       "description": "A Loving Shiba and Battle Cat's rival. Trying to enter college this year. Very thoughtful and sends birthday gifts to Cat every year."
     },
-	
-	{
-      "id": 001,
+    {
+      "id": 1,
       "name": "Snache",
       "trait": ["Traitless"],
       "health": 100,
@@ -31,15 +30,14 @@
       "speed": 8,
       "knockback": 3,
       "time_between_attacks": 1.23,
-	  "animation": 1.57,
+      "animation": 1.57,
       "special_abilities": [],
-	  "damage_per_second": 13,
-	  "money": 30,
+      "damage_per_second": 13,
+      "money": 30,
       "description": "Uses watercolours for body paint. So… naturally weak against water. This information has nothing to do with the game content whatsoever."
     },
-	
-	{
-      "id": 002,
+    {
+      "id": 2,
       "name": "Those Guys",
       "trait": ["Traitless"],
       "health": 200,
@@ -49,15 +47,14 @@
       "speed": 10,
       "knockback": 1,
       "time_between_attacks": 1.00,
-	  "animation": 0.33,
+      "animation": 0.33,
       "special_abilities": [],
-	  "damage_per_second": 20,
-	  "money": 75,
+      "damage_per_second": 20,
+      "money": 75,
       "description": "A bunch of wusses who like to gang up. Found each other on the internet. Suprisingly, all of them are quite rich."
     },
-	
-	{
-      "id": 003,
+    {
+      "id": 3,
       "name": "Hippoe",
       "trait": ["Traitless"],
       "health": 1000,
@@ -67,16 +64,14 @@
       "speed": 4,
       "knockback": 1,
       "time_between_attacks": 2.23,
-	  "animation": 0.27,
+      "animation": 0.27,
       "special_abilities": [],
-	  "damage_per_second": 45,
-	  "money": 400,
+      "damage_per_second": 45,
+      "money": 400,
       "description": "This dangerous hippo has confidence in its stamina and power. (s)he? has a multi attack skill. We don't know if it is a he or she."
     },
-	
-	
-	{
-      "id": 004,
+    {
+      "id": 4,
       "name": "Pigge",
       "trait": ["Red"],
       "health": 1500,
@@ -86,15 +81,14 @@
       "speed": 5,
       "knockback": 2,
       "time_between_attacks": 2.43,
-	  "animation": 0.47,
+      "animation": 0.47,
       "special_abilities": [],
-	  "damage_per_second": 50,
-	  "money": 400,
+      "damage_per_second": 50,
+      "money": 400,
       "description": "Loves going to the tanning salon, that's why her skin is red. Born in an organic free range farm. Did you know that pigs like to clean?"
     },
-
-	{
-      "id": 005,
+    {
+      "id": 5,
       "name": "Jackie Peng",
       "trait": ["Traitless"],
       "health": 1300,
@@ -104,15 +98,14 @@
       "speed": 11,
       "knockback": 3,
       "time_between_attacks": 0.80,
-	  "animation": 0.27,
+      "animation": 0.27,
       "special_abilities": [],
-	  "damage_per_second": 100,
-	  "money": 450,
+      "damage_per_second": 100,
+      "money": 450,
       "description": "Loves watching Kung Fu movies, and aiming to get into Hollywood. Uses self-taught Kung Fu."
     },
-	
-	{
-      "id": 006,
+    {
+      "id": 6,
       "name": "Gory",
       "trait": ["Traitless"],
       "health": 1000,
@@ -122,10 +115,11 @@
       "speed": 15,
       "knockback": 3,
       "time_between_attacks": 0.80,
-	  "animation": 0.27,
+      "animation": 0.27,
       "special_abilities": [],
-	  "damage_per_second": 150,
-	  "money": 550,
+      "damage_per_second": 150,
+      "money": 550,
       "description": "Managed to get kicked out of the zoo because of his scary face. Has no job or education, so turned to alcohol and gambling."
-    },
+    }
+  ]
 }
