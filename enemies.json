@@ -120,6 +120,58 @@
       "damage_per_second": 150,
       "money": 550,
       "description": "Managed to get kicked out of the zoo because of his scary face. Has no job or education, so turned to alcohol and gambling."
+    },
+    {
+      "id": 7,
+      "name": "Baa Baa",
+      "trait": ["Traitless"],
+      "health": 500,
+      "attack": 50,
+      "target": "Single",
+      "range": 110,
+      "speed": 7,
+      "knockback": 3,
+      "time_between_attacks": 1.77,
+      "animation": 0.47,
+      "special_abilities": [],
+      "damage_per_second": 29,
+      "money": 150,
+      "description": "Corny name. Corny looks. Has a complex about being too ordinary. Trying to fix this by taking comedy lessons at acting school."
+    },
+    {
+      "id": 8,
+      "name": "Sir Seal",
+      "trait": ["Red"],
+      "health": 2500,
+      "attack": 150,
+      "target": "Area",
+      "range": 170,
+      "speed": 10,
+      "knockback": 1,
+      "time_between_attacks": 0.77,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 196,
+      "money": 650,
+      "description": "Came to the big city from the quiet seaside. Wanted more attention so dyed his body red."
+    }
+
+    {
+      "id": 9,
+      "name": "Le'boin",
+      "trait": ["Traitless"],
+      "health": 4000,
+      "attack": 654,
+      "target": "Area",
+      "range": 400,
+      "speed": 4,
+      "knockback": 1,
+      "time_between_attacks": 6.23,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 105,
+      "money": 1300,
+      "description": "Has ridiculously long reach. Likes his women curvy. Very curvy. Collects lots of magazines … don't ask what type."
     }
   ]
 }
