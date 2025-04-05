@@ -1,8 +1,6 @@
-"_comment": "This API was made by Kaxarah! All data sourced from mygamatoto.com!"
-
-"_notice": "These are all scaled to 100%, the enemy average."
-
 {
+  "_comment": "This API was made by Kaxarah! All data sourced from mygamatoto.com!",
+  "_notice": "These are all scaled to 100%, the enemy average.",
   "enemies": [
     {
       "id": 000,
