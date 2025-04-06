@@ -289,7 +289,24 @@
       "special_abilities": [],
       "damage_per_second": 11250,
       "money": 1,
-      "description": "icensed to kill. The global financial crisis isn't helping him much though. Please check the flyers. He's offering one million per kill now."
+      "description": "Licensed to kill. The global financial crisis isn't helping him much though. Please check the flyers. He's offering one million per kill now."
+    },
+    {
+      "id": 17,
+      "name": "Shy Boy",
+      "trait": ["Red, Floating"],
+      "health": 35000,
+      "attack": 500,
+      "target": "Area",
+      "range": 150,
+      "speed": 40,
+      "knockback": 2,
+      "time_between_attacks": 0.73,
+      "animation": 0.40,
+      "special_abilities": [],
+      "damage_per_second": 682,
+      "money": 1500,
+      "description": "Ridiculously shy. He loves to sing though, but has never sang in front of anyone. … does a mirror count? Solo Karaoke'r"
     }
   ]
 }
