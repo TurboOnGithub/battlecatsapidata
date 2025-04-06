@@ -14,7 +14,7 @@
       "knockback": 3,
       "time_between_attacks": 1.57,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 6,
       "money": 15,
       "description": "A Loving Shiba and Battle Cat's rival. Trying to enter college this year. Very thoughtful and sends birthday gifts to Cat every year."
@@ -31,7 +31,7 @@
       "knockback": 3,
       "time_between_attacks": 1.23,
       "animation": 1.57,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 13,
       "money": 30,
       "description": "Uses watercolours for body paint. So… naturally weak against water. This information has nothing to do with the game content whatsoever."
@@ -48,7 +48,7 @@
       "knockback": 1,
       "time_between_attacks": 1.00,
       "animation": 0.33,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 20,
       "money": 75,
       "description": "A bunch of wusses who like to gang up. Found each other on the internet. Suprisingly, all of them are quite rich."
@@ -65,7 +65,7 @@
       "knockback": 1,
       "time_between_attacks": 2.23,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 45,
       "money": 400,
       "description": "This dangerous hippo has confidence in its stamina and power. (s)he? has a multi attack skill. We don't know if it is a he or she."
@@ -82,7 +82,7 @@
       "knockback": 2,
       "time_between_attacks": 2.43,
       "animation": 0.47,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 50,
       "money": 400,
       "description": "Loves going to the tanning salon, that's why her skin is red. Born in an organic free range farm. Did you know that pigs like to clean?"
@@ -99,7 +99,7 @@
       "knockback": 3,
       "time_between_attacks": 0.80,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 100,
       "money": 450,
       "description": "Loves watching Kung Fu movies, and aiming to get into Hollywood. Uses self-taught Kung Fu."
@@ -116,7 +116,7 @@
       "knockback": 3,
       "time_between_attacks": 0.80,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 150,
       "money": 550,
       "description": "Managed to get kicked out of the zoo because of his scary face. Has no job or education, so turned to alcohol and gambling."
@@ -133,7 +133,7 @@
       "knockback": 3,
       "time_between_attacks": 1.77,
       "animation": 0.47,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 29,
       "money": 150,
       "description": "Corny name. Corny looks. Has a complex about being too ordinary. Trying to fix this by taking comedy lessons at acting school."
@@ -150,7 +150,7 @@
       "knockback": 1,
       "time_between_attacks": 0.77,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 196,
       "money": 650,
       "description": "Came to the big city from the quiet seaside. Wanted more attention so dyed his body red."
@@ -167,10 +167,27 @@
       "knockback": 1,
       "time_between_attacks": 6.23,
       "animation": 0.27,
-      "special_abilities": [],
+      "special_abilities": ["None"],
       "damage_per_second": 105,
       "money": 1300,
       "description": "Has ridiculously long reach. Likes his women curvy. Very curvy. Collects lots of magazines … don't ask what type."
+    },
+    {
+      "id": 10,
+      "name": "Kang Roo",
+      "trait": ["Traitless"],
+      "health": 4000,
+      "attack": ["213 / 12 / 25"],
+      "target": "Single",
+      "range": 160,
+      "speed": 20,
+      "knockback": 1,
+      "time_between_attacks": 1.20,
+      "animation": 0.07,
+      "special_abilities": ["Multi-hit attack (Attacks thrice consecutively)"],
+      "damage_per_second": 209,
+      "money": 1400,
+      "description": "Always dreamed to be a boxer. Couldn't really get there because it is… well, a kangaroo. Sad, sad truth."
     }
   ]
 }
