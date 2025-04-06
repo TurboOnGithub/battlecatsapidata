@@ -273,6 +273,23 @@
       "damage_per_second": 37,
       "money": 100,
       "description": "She speaks an old English dialect (?) No, seriously, it sounds like English, but it's too hard understand what she says. Works at the English school near the station."
+    },
+    {
+      "id": 16,
+      "name": "Assassin Bear",
+      "trait": ["Black"],
+      "health": 550,
+      "attack": 3000,
+      "target": "Area",
+      "range": 110,
+      "speed": 150,
+      "knockback": 1,
+      "time_between_attacks": 0.27,
+      "animation": 0.20,
+      "special_abilities": [],
+      "damage_per_second": 11250,
+      "money": 1,
+      "description": "icensed to kill. The global financial crisis isn't helping him much though. Please check the flyers. He's offering one million per kill now."
     }
   ]
 }
