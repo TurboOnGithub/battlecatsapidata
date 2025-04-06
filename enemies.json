@@ -205,6 +205,23 @@
       "damage_per_second": 938,
       "money": 2500,
       "description": "Loves to help people. Works part time at a fire station. However, as he is so slow on his feet, he never makes it to the fire on time."
+    },
+    {
+      "id": 12,
+      "name": "Teacher Bear",
+      "trait": ["Traitless"],
+      "health": 3000,
+      "attack": 1000,
+      "target": "Area",
+      "range": 350,
+      "speed": 4,
+      "knockback": 10,
+      "time_between_attacks": 3.57,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 281,
+      "money": 2000,
+      "description": "A kindergarten teacher. He LOVES children. His sharp claws are not suited for the job. Not related to a certain other bear. No one knows his real name."
     }
   ]
 }
