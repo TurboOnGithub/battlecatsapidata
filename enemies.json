@@ -188,6 +188,23 @@
       "damage_per_second": 209,
       "money": 1400,
       "description": "Always dreamed to be a boxer. Couldn't really get there because it is… well, a kangaroo. Sad, sad truth."
+    },
+    {
+      "id": 11,
+      "name": "One Horn",
+      "trait": ["Red"],
+      "health": 15000,
+      "attack": 500,
+      "target": "Area",
+      "range": 40,
+      "speed": 3,
+      "knockback": 1,
+      "time_between_attacks": 0.53,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 938,
+      "money": 2500,
+      "description": "Loves to help people. Works part time at a fire station. However, as he is so slow on his feet, he never makes it to the fire on time."
     }
   ]
 }
