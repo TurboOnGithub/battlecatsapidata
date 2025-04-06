@@ -281,7 +281,7 @@
       "health": 550,
       "attack": 3000,
       "target": "Area",
-      "range": 110,
+      "range": 800,
       "speed": 150,
       "knockback": 1,
       "time_between_attacks": 0.27,
