@@ -222,6 +222,57 @@
       "damage_per_second": 281,
       "money": 2000,
       "description": "A kindergarten teacher. He LOVES children. His sharp claws are not suited for the job. Not related to a certain other bear. No one knows his real name."
+    },
+    {
+      "id": 13,
+      "name": "Croco",
+      "trait": ["Traitless"],
+      "health": 70,
+      "attack": 30,
+      "target": "Area",
+      "range": 110,
+      "speed": 14,
+      "knockback": 1,
+      "time_between_attacks": 0.60,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 50,
+      "money": 50,
+      "description": "He was saved by Dundee. Infatuated with correspondence learning. Managed to obtain several qualifications. Word Processing Cert. 2nd class."
+    },
+    {
+      "id": 14,
+      "name": "B.B. Bunny",
+      "trait": ["Red"],
+      "health": 500,
+      "attack": 30,
+      "target": "Single",
+      "range": 110,
+      "speed": 22,
+      "knockback": 3,
+      "time_between_attacks": 1.37,
+      "animation": 0.40,
+      "special_abilities": [],
+      "damage_per_second": 37,
+      "money": 180,
+      "description": "Quit a major company and is managing 4 companies now. Aspires to become city mayor someday."
+    },
+    {
+      "id": 15,
+      "name": "Squire Rel",
+      "trait": ["Traitless"],
+      "health": 80,
+      "attack": 30,
+      "target": "Single",
+      "range": 110,
+      "speed": 22,
+      "knockback": 3,
+      "time_between_attacks": 0.53,
+      "animation": 0.27,
+      "special_abilities": [],
+      "damage_per_second": 37,
+      "money": 100,
+      "description": "She speaks an old English dialect (?) No, seriously, it sounds like English, but it's too hard understand what she says. Works at the English school near the station."
     }
   ]
 }
